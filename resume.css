@@ -1,0 +1,39 @@
+*{
+        font-size: 18px;
+}
+body{
+    padding: 4px;
+    margin: 2px;
+}
+.ul1{
+    float: left;
+    font-size: 18px;
+    list-style-type:none ;
+    width: 50%;
+}
+.ul2{
+    font-size: 18px;
+    float: right;
+    list-style-type: none;
+}
+h2{
+    padding: 2px;
+    background-color: lightblue;
+}
+p{
+    font-size: 18px;
+}
+.table1{
+    margin: 5px;
+    width: 50%;
+    font-size: 18px;
+}
+
+td{
+    padding: 15px;
+}
+
+.table2{
+    margin-left: 20px;
+}
+
